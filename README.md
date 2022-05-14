@@ -1,9 +1,5 @@
 # userManagementApp
 
-# weatherCheck
-
-
-
 <br>
 <br>
 
